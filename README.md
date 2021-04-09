@@ -1,0 +1,2 @@
+# bintang
+boot sinyal binomo
